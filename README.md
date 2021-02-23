@@ -1,2 +1,2 @@
 # Repositorio-00
- Primeiro repositorio do curso Git e GitHub
+ Meu primeiro repositorio no curso de Git/Github
