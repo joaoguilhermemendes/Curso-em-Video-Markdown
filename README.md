@@ -142,5 +142,10 @@ Como **Steve Jobs** disse uma vez:
 
 Bela frase!<br><br>
 
+# Menções
+<p>Você pode mencionar outro usuário colocanto a @ antes do nome:<br>
+"Assim como postado no repositório do professor @gustavoguanabara"<br>
+
+"Assim como postado no repositório do professor @gustavoguanabara"
 
 
