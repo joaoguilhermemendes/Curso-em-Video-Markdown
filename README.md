@@ -53,7 +53,7 @@ _**Ou usando um underline e astericos duplos entre o termo (_**...**_)**_</p><br
 * Opção 4<br><br></p>
 
 <h2>Lista de Tarefas</h2>
-<p>Basta colocar dois colchetes, dar um espaço e escrever as tarefas (Para marcar como completa deve-se colocar um "x") :<br>
+<p>Basta colocar um hífen, dar espaço, dois colchetes, dar um espaço e escrever as tarefas (Para marcar como completa deve-se colocar um "x")<br>
 - [ ] Mercury<br>
 - [x] Venus<br>
 - [x] Earth (Orbit/Moon)<br>
@@ -72,6 +72,75 @@ _**Ou usando um underline e astericos duplos entre o termo (_**...**_)**_</p><br
 - [ ] Saturn<br>
 - [ ] Uranus<br>
 - [ ] Neptune<br>
-- [ ] Comet Haley<br>
+- [ ] Comet Haley<br><br>
+
+<h1>Títulos e linhas</h1>
+
+<p>Você também pode usar de 1 até 6 # para representar a hierarquia semântica. E para criar linhas horizontais você só precisa enfileirar 3 hifens ou 3 asteriscos seguidos <br></p>
+
+# Exemplo
+## Exemplo
+---
+### Exemplo
+***
+#### Exemplo
+___
+##### Exemplo<br><br><br>
+
+# Imagens
+<p>Você pode adicionar imagens ao seu documento da seguinte maneira:<br>
+![Descrição da imagem](Endereço da imagem)<br>
+
+![CursoemVideo](https://cursoemvideo.com/logo.png)<br><br>
+
+# Links
+<p>Bem semelhante às imagens, basta colocar o descrição do link e o seu endereço:<br>
+[Descrição do link](Endereço do link)<br>
+
+[Meu GitHub](https://github.com/joaoguilhermemendes)<br><br>
+
+# Trechos de comando
+## Comando Único
+<p>Quer dar um destaque no código? Basta coloca-lo entre crases `` :<br>
+O primeiro comando que aprendi quando estudava JavaScript foi o `window.document.querySelector()`<br>
+
+O primeiro comando que aprendi quando estudava JavaScript foi o `window.document.querySelector()`<br><br>
+
+## Bloco de código
+<p>Para Adicionar blocos inteiros de código, coloque 3 crases, dê enter, coloque os blocos de codigo e fecha da maneira que abriu com enter e crases:<br>
+```
+num = int(input('Digite um número: '))
+if num % 2 == 0:
+ print(f'O valor {num} é PAR')
+else:
+ print(f'O valor {num} é ÍMPAR')
+print('Fim do Programa')
+``` 
+
+```
+num = int(input('Digite um número: '))
+if num % 2 == 0:
+ print(f'O valor {num} é PAR')
+else:
+ print(f'O valor {num} é ÍMPAR')
+print('Fim do Programa')
+```
+<br><br>
+
+# Citções
+<p>Para construir uma citação, monte essa estrutura:<br>
+Como **Steve Jobs** disse uma vez:<br>
+> Decidir o que não fazer é tão<br>
+> importante quanto decidir<br>
+> o que fazer<br>
+Bela frase!<br>
+
+Como **Steve Jobs** disse uma vez:
+> Decidir o que não fazer é tão
+> importante quanto decidir
+> o que fazer
+
+Bela frase!<br><br>
+
 
 
