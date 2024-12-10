@@ -1,7 +1,7 @@
 # Repositório #00
 
 
-<p>Olá programador! aqui serão demonstradas as principais funções do Markdown - Elemento muito utilizado no RED.ME dos arquivos no GitHub.<br>
+<p>Olá programador! aqui serão demonstradas as principais funções do Markdown - Elemento muito utilizado no READ.ME dos arquivos no GitHub.<br>
 
 <h1> Título - markdown simples</h1>
 
